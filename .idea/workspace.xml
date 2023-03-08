@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26dc5a2a-5f5a-4d41-841c-aa232b98038f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day2/Assigment/Count_integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Assigment/Multiplication_table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Assigment/Positive_negative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Assigment/gretestnumber3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Even_odd_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Jumping_statment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/Nested_if_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/While_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/for_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/if_else_condtion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/largest_of_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/switch_condition.java" afterDir="false" />
+    <list default="true" id="26dc5a2a-5f5a-4d41-841c-aa232b98038f" name="Changes" comment="Loops and Conditionals">
+      <change afterPath="$PROJECT_DIR$/src/day3/Assigment/Sum_of_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Assigment/even_odd_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Assigment/greatest_smallest_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Assigment/search_in_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Multi_dimensional_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/PrivateEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/PrivateEmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Singledimensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/String_method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/for_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/for_loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,13 @@
       <recent name="E:\code\First_java\src\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Count_integer">
-    <configuration name="Count_integer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Assigment.Count_integer" />
+  <component name="RunManager" selected="Application.PrivateEmployeeTest">
+    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Employee" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.Assigment.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiplication_table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Assigment.Multiplication_table" />
+    <configuration name="PrivateEmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.PrivateEmployeeTest" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.Assigment.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Positive_negative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Assigment.Positive_negative" />
+    <configuration name="Sum_of_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Assigment.Sum_of_arrays" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.Assigment.*" />
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +92,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gretestnumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Assigment.gretestnumber3" />
+    <configuration name="even_odd_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Assigment.even_odd_array" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2.Assigment.*" />
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="search_in_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.Assigment.search_in_array" />
+      <module name="First_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,10 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Count_integer" />
-        <item itemvalue="Application.Multiplication_table" />
-        <item itemvalue="Application.gretestnumber3" />
-        <item itemvalue="Application.Positive_negative" />
+        <item itemvalue="Application.PrivateEmployeeTest" />
+        <item itemvalue="Application.Employee" />
+        <item itemvalue="Application.even_odd_array" />
+        <item itemvalue="Application.search_in_array" />
+        <item itemvalue="Application.Sum_of_arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +137,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678083754993</updated>
     </task>
+    <task id="LOCAL-00001" summary="Loops and Conditionals">
+      <created>1678243835667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678243835667</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,5 +157,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Loops and Conditionals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops and Conditionals" />
   </component>
 </project>
