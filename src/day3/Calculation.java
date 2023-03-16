@@ -35,5 +35,17 @@ public class Calculation
         //cal.sum(100,200); // case 3
 
         System.out.println(cal.sum(100,200));  // case 4
+        int m= 20;
+        int n= 40;
+
+        System.out.println(m++);
+        System.out.println(m);
+        System.out.println(++m);
+        System.out.println(m);
+        System.out.println(n--);
+        System.out.println(n);
+        System.out.println(--n);
+        System.out.println(n);
+
     }
 }
