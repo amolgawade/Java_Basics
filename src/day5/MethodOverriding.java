@@ -1,4 +1,21 @@
 package day5;
+
+public class MethodOverriding
+{
+    public static void main(String[] args)
+
+    {
+        SBI sbi = new SBI();
+        System.out.println(sbi.rate_interest());
+
+        ICICI icici = new ICICI();
+        System.out.println(icici.rate_interest());
+
+        AXIX axix = new AXIX();
+        System.out.println(axix.rate_interest());
+
+    }
+}
 class Bank
 {
     double rate_interest()
@@ -28,20 +45,5 @@ class ICICI extends Bank
         return 8.5;
     }
 }
-public class MethodOverriding
-{
-    public static void main(String[] args)
 
-    {
-        SBI sbi = new SBI();
-        System.out.println(sbi.rate_interest());
-
-        ICICI icici = new ICICI();
-        System.out.println(icici.rate_interest());
-
-        AXIX axix = new AXIX();
-        System.out.println(axix.rate_interest());
-
-    }
-}
 

@@ -3,7 +3,7 @@ package day2;
 public class switch_condition {
     public static void main(String[] args){
 
-        int day= 10;
+        int day= 5;
 
         switch (day)
         {

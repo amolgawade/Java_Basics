@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26dc5a2a-5f5a-4d41-841c-aa232b98038f" name="Changes" comment="SDET lectures">
-      <change afterPath="$PROJECT_DIR$/src/day3/Assigment/Percentage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8/Hypotenous.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8/NestedVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8/booltest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/Avarage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/If_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/Increment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/Midpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/Missing_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/TwoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/count10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/miss_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/switch_case_for.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day3/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day3/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/switch_condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/switch_condition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5/MethodOverriding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day5/MethodOverriding.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +56,13 @@
       <recent name="E:\code\First_java\src\day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NestedVariable">
-    <configuration name="Calculation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.Calculation" />
+  <component name="RunManager" selected="Application.Midpoint">
+    <configuration name="Midpoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.Midpoint" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hypotenous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day8.Hypotenous" />
+    <configuration name="Missing_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.Missing_break" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedVariable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day8.NestedVariable" />
+    <configuration name="count10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.count10" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Percentage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.Assigment.Percentage" />
+    <configuration name="miss_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.miss_break" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.Assigment.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="booltest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day8.booltest" />
+    <configuration name="switch_condition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.switch_condition" />
       <module name="First_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day8.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NestedVariable" />
-        <item itemvalue="Application.Hypotenous" />
-        <item itemvalue="Application.booltest" />
-        <item itemvalue="Application.Percentage" />
-        <item itemvalue="Application.Calculation" />
+        <item itemvalue="Application.Midpoint" />
+        <item itemvalue="Application.count10" />
+        <item itemvalue="Application.miss_break" />
+        <item itemvalue="Application.Missing_break" />
+        <item itemvalue="Application.switch_condition" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678768380929</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="SDET lectures">
+      <created>1678948809829</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678948809829</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +196,81 @@
           <url>file://$PROJECT_DIR$/src/day3/Assigment/Studentinfo.java</url>
           <line>22</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Increment.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Missing_break.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Missing_break.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Missing_break.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Missing_break.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Missing_break.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Missing_break.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Midpoint.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9/Midpoint.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
