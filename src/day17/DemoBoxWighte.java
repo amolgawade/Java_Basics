@@ -36,11 +36,12 @@ class BoxWighte extends Box{
 
     double wighte;
 
-    // constructor for class
+    // constructor for class  and use the sipper keyword
     BoxWighte(double w, double h, double d, double m){
-        width = w;
-        height = h;
-        depth = d;
+//        width = w;
+//        height = h;
+//        depth = d;
+        super(w,h,d);  // call superclass constructor
         wighte = m;
     }
 }
